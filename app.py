@@ -36,7 +36,7 @@ def prediction(Store, Holiday, Temperature, Fuel_Price, CPI, Unemployment, Day, 
 def main():
     # front end elements of the web page
     html_temp = """
-    <div style ="background-color:Blue;padding:13px">
+    <div style ="background-color:Pink;padding:13px">
     <h1 style ="color:black;text-align:center;">  Somu@ Pragyan and FUEL AI Walmart Sale Prediction ML App</h1>
     </div>
     """
